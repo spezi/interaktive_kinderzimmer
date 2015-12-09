@@ -9,7 +9,8 @@ eine kleine Box mit verschiedenen Funktionen fürs Kinderzimmer
 
 ## Hardware
 * Raspberry Pi
-* NodeMCU
+* NodeMCU https://github.com/nodemcu/nodemcu-devkit 
+* oder arduino
 
 ## Software
 * https://github.com/djfroofy/PyAudio
