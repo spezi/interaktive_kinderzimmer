@@ -18,3 +18,8 @@ eine kleine Box mit verschiedenen Funktionen fürs Kinderzimmer
 * https://github.com/psawey/PyAudio
 * python 
 * puredata
+
+##Linksammlung
+### NodeMCU
+http://www.esp8266.com/viewtopic.php?f=26&t=3635 flash from arduino IDE 
+http://www.instructables.com/id/ESP8266-NodeMCU-v10-ESP12-E-with-Arduino-IDE/ 
