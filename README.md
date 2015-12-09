@@ -27,3 +27,4 @@ eine kleine Box mit verschiedenen Funktionen fürs Kinderzimmer
 
 ### other projekts
 * https://github.com/forkineye/ESPixelStick
+* https://github.com/FastLED/FastLED/issues/119
