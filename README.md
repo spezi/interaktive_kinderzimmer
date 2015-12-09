@@ -24,3 +24,6 @@ eine kleine Box mit verschiedenen Funktionen fürs Kinderzimmer
 * http://www.esp8266.com/viewtopic.php?f=26&t=3635 flash from arduino IDE 
 * http://www.instructables.com/id/ESP8266-NodeMCU-v10-ESP12-E-with-Arduino-IDE/ 
 * http://shin-ajaran.blogspot.sg/2015/09/stream-iot-sensor-data-esp8266-nodemcu.html
+
+### other projekts
+* https://github.com/forkineye/ESPixelStick
